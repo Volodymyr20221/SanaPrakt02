@@ -3,5 +3,5 @@ Console.WriteLine("Text");
 Console.WriteLine("Text");
 Console.WriteLine("Text");
 Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Random");
+Console.WriteLine("Random");
